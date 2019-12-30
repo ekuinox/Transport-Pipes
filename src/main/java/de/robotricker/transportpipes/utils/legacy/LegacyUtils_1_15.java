@@ -2,7 +2,7 @@ package de.robotricker.transportpipes.utils.legacy;
 
 import org.bukkit.Material;
 
-public class LegacyUtils_1_14 extends LegacyUtils {
+public class LegacyUtils_1_15 extends LegacyUtils {
 
     @Override
     public Material getRedDye() {
